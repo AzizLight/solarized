@@ -1,4 +1,4 @@
-runtime/solarized.vim
+runtime colors/solarized.vim
 
 if version >= 700
   hi Search            guifg=NONE        guibg=NONE      gui=underline ctermfg=NONE        ctermbg=NONE        cterm=underline
